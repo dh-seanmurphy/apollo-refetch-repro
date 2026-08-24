@@ -1,0 +1,20 @@
+{
+  "name": "apollo-refetch-repro",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@apollo/client": "4.2.12",
+    "graphql": "16.14.2",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "7.0.1",
+    "@testing-library/react": "16.3.2",
+    "jest": "30.4.2",
+    "jest-environment-jsdom": "30.4.1",
+    "react-app-polyfill": "3.0.0"
+  }
+}
